@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include toc %}
-
 Computer vision and lens-free imaging for automatic monitoring of infection
 ---
 Development of computer vision and machine learning algorithms to improve image quality of holographic reconstruction, and perform multi-object, large-scale detection of abnormalities such as bacteria, blood cells, and crystals in urine samples from lensless imaging devices.
