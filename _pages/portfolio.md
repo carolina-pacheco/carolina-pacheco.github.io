@@ -28,7 +28,7 @@ Development of activity recognition methods to enable child-robot interaction in
   <center> 
     	<img src="{{ "gear.png" | prepend: "/images/" | prepend: base_path }}"  width="500"  fetchpriority="high" />
   </center>
-  <sub> Source: [A detection-based approach to multiview action classification in infants](https://ieeexplore.ieee.org/abstract/document/9412822), ICPR, 2020. </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> Source: [A detection-based approach to multiview action classification in infants](https://ieeexplore.ieee.org/abstract/document/9412822), ICPR, 2020. </sub>
    
 Classification of stem cell-derived cardiomyocytes
 ---
@@ -36,4 +36,4 @@ Development of machine learning algorithms to classify action potentials of stem
   <center> 
     	<img src="{{ "LSTM-DA.png" | prepend: "/images/" | prepend: base_path }}"  width="500"  fetchpriority="high" />
   </center>
-     <sub> Source: [An unsupervised domain adaptation approach to classification of stem cell-derived cardiomyocytes](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_89), MICCAI 2019. </sub>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> Source: [An unsupervised domain adaptation approach to classification of stem cell-derived cardiomyocytes](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_89), MICCAI 2019. </sub>
