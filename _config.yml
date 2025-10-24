@@ -28,7 +28,7 @@ author:
   bio              : "Biomedical Engineer, PhD"
   location         : #"Earth"
   employer         : "Johns Hopkins University"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   uri              : # URL
   email            : "carolina.pacheco.onate@gmail.com" 
 

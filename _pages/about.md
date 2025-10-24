@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a biomedical engineer excited about the power of interdisciplinary work for the development and application of technology to real-world medical needs. With an electrical engineering background, my research interest lies at the intersection of machine learning, computer vision, and biomedical sciences, which I have been able to explore through diverse projects ranging from the cell level to full-body motion analysis. From this experience I have learned that collaboration with domain experts is key for the successful design (or adaptation) of solutions to specific biomedical tasks.
+I am a biomedical engineer excited about the power of interdisciplinary work for the development and application of technology to real-world medical needs. With an electrical engineering background, my research interest lies at the intersection of machine learning, computer vision, and biomedical sciences, which I have explored through diverse projects ranging from the cell level to full-body motion analysis. From this experience I have learned that collaboration with domain experts is key for the successful design (or adaptation) of solutions to specific biomedical tasks.
 
 
 Education 
