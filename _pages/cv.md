@@ -51,6 +51,15 @@ Publications
 ======
 Please visit the ["Publications"]({{"/publications/" | prepend: base_path}}) tab for recent publications and my [google scholar profile](https://scholar.google.com/citations?user=OJSAJYIAAAAJ) for a complete list.  
 
+Talks
+=====
+* **Machine learning in hematology: reinventing the blood test**, joint talk with Prof. René Vidal as invited speakers in the [Biomage Computing Workshop](https://www.bioimagecomputing.com/bioimage-computing-iccv-2023/), International Conference on Computer Vision (ICCV), October 2023.
+* **The potential of computer vision methods in lensless imaging**, oral presentation at the annual retreat of the [Institute for Computational Medicine (ICM)](https://icm.jhu.edu/), May, 2022.
+* **A Detection-based approach to multiview action classification in infants**, oral presentation at the [International Conference on Pattern Recognition (ICPR)](https://www.micc.unifi.it/icpr2020/), Jan 2021.
+* **Motor imitation assessment to inform autism diagnosis**, lightning talk at the annual retreat of the [Institute for Computational Medicine (ICM)](https://icm.jhu.edu/), October 2020.
+* **Recurrent neural networks for classifying human embryonic stem cell-derived cardiomyocytes**, oral presentation at the [1st JHU Computer Vision Workshop](https://ccvl.jhu.edu/workshops/2019/jhu-computer-vision-workshop/), April 2019.
+* **Classification of stem-cell derived cardiomyocytes**, lightning talk at the annual retreat of the [Institute for Computational Medicine (ICM)](https://icm.jhu.edu/), October 2017.
+
 Teaching and Mentoring
 ======
 * 2019 - 2022 **Research Mentor**, [Ingenuity Project](https://www.ingenuityproject.org/). <br>
