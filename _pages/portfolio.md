@@ -13,6 +13,8 @@ Development of computer vision and machine learning algorithms to improve image 
     	<img src="{{ "lfi-overview.png" | prepend: "/images/" | prepend: base_path }}"  width="300"  fetchpriority="high" />
   </center>
 
+<sub> More details in [Lens free holographic imaging for urinary tract infection screening](https://ieeexplore.ieee.org/abstract/document/9896942), IEEE Transactions in Biomedical Engineering, 2023. </sub>   
+
 Automatic imitation assessment to study autism in children
 ---
 Design of a dynamic time warping-based approach to quantitatively assess the imitation performance of children in a videogame-like task. The proposed method shows better predictive capacity of autism diagnosis than human-based imitation assessments.
