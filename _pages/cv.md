@@ -12,12 +12,18 @@ redirect_from:
 
 <sub> Download a pdf version of my CV [here]({{"Resume_CPacheco_2025.pdf" | prepend: "/files/" | prepend: base_path}}). <sub>
 
-Education
+Academic Background
 ======
-* **PhD in Biomedical Engineering**, 2024,Johns Hopkins University, USA.
-* **MSE in Biomedical Engineering**, 2018, Johns Hopkins University, USA.
+* **PhD in Biomedical Engineering**, 2024, Johns Hopkins University, USA. <br>
+  <sub> [*Self-Supervised and Weakly-Supervised Computer Vision Methods for Lensless Imaging*](https://jscholarship.library.jhu.edu/handle/1774.2/70256), advised by Prof. [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/). <sub>
+  
+* **MSE in Biomedical Engineering**, 2018, Johns Hopkins University, USA. <br>
+  <sub> [*RNNs for classification of human embryonic stem cell-derived cardiomyocytes*](http://jhir.library.jhu.edu/handle/1774.2/60153), advised by Prof. [René Vidal](https://www.grasp.upenn.edu/people/rene-vidal/). <sub>
+
 * **Diploma in Electrical Engineering**, 2014, University of Chile, Chile.
-* **Bachelor of Engineering Science in Electrical Engineering**, 2014, University of Chile, Chile.
+* **Bachelor of Engineering Science in Electrical Engineering**, 2014, University of Chile, Chile.<br>
+    <sub> [*Analysis of fractional-order state observers for integer-order linear systems*](https://repositorio.uchile.cl/handle/2250/115614), advised by Prof. [Manuel Duarte](https://investigadores.anid.cl/es/public_search/researcher?id=4756). <sub>
+  
 
 Professional Backrground
 ======
