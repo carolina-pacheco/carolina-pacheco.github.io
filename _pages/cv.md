@@ -36,7 +36,7 @@ Professional Backrground
 * 2014 - 2015 **Research Engineer**, [CIGIDEN](https://nuevo.cigiden.cl/en/) (1 year and 5 months)<br>
 Developed models of pedestrian evacuation and provision of transient accommodations to study the response capacity of public and private sectors in the event of a catastrophe.
 
-* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant**, PUC (2 months)<br>
+* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant**, Pontifical Catholic University of Chile (2 months)<br>
 Intern at *"An Intelligent Tutoring System Based on Novel Sensing Modalities"* project. Supported the acquisition of electroencephalographic (EEG) recordings and conducted a feasibility study of attentional level detection through EEG signals analysis.
 
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Research Assistant**, University of Chile (1 year)<br>
