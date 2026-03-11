@@ -127,12 +127,10 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "l20E9DJUCZwAJqJv_p4YJMkLB5vONGbnwRdxMQqUzPc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
-<meta name="google-site-verification" content="l20E9DJUCZwAJqJv_p4YJMkLB5vONGbnwRdxMQqUzPc" />
 
 # Social Sharing
 twitter:
