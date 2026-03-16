@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <sub> Check my [google scholar profile](https://scholar.google.com/citations?user=OJSAJYIAAAAJ) for a complete list of publications. <sub>
-- K. Kinfu, **C. Pacheco**, A. Perry, D. Crocetti, B. Tunçgenç, S. Mostofsky, R. Vidal,[*Computerized Assessment of Motor Imitation for Distinguishing Autism in Video (CAMI-
+- K. Kinfu, **C. Pacheco**, A. Perry, D. Crocetti, B. Tunçgenç, S. Mostofsky, R. Vidal, [*Computerized Assessment of Motor Imitation for Distinguishing Autism in Video (CAMI-
 2DNet*](https://ieeexplore.ieee.org/abstract/document/11269933), IEEE Transactions on Biomedical Engineering, 2025.
 - R. Santra, **C. Pacheco**, D. Crocetti, R. Vidal, S. Mostofsky, B. Tunçgenç, [*Evaluating Computerised Assessment of Motor Imitation (CAMI) for identifying autism-specific difficulties not observed for attention-deficit hyperactivity disorder or neurotypical development*](https://pubmed.ncbi.nlm.nih.gov/39871516/), The British
 Journal of Psychiatry, 2025.
