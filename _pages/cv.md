@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 {% include toc %}
 
-<sub> Download a pdf version of my CV [here]({{"Resume_CPacheco_2025.pdf" | prepend: "/files/" | prepend: base_path}}). <sub>
+<sub> Download a pdf version of my CV [here]({{"Resume_CPacheco_2026.pdf" | prepend: "/files/" | prepend: base_path}}). <sub>
 
 Academic Background
 ======
