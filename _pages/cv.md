@@ -62,10 +62,10 @@ Talks
 
 Teaching and Mentoring
 ======
-* 2019 - 2022 **Research Mentor**, [Ingenuity Project](https://www.ingenuityproject.org/). <br>
+* 2019 - 2021 **Research Mentor**, [Ingenuity Project](https://www.ingenuityproject.org/). <br>
 Research practicum mentor of high-school students from the Ingenuity Project, a program for talented, high-achieving, Baltimore City public school students.
 
-* 2018 - 2019 **STEM Mentor**, [SABES program](https://engineering.jhu.edu/sabes/).<br>
+* 2017 - 2020 **STEM Mentor**, [SABES program](https://engineering.jhu.edu/sabes/).<br>
  Volunteer for the STEM achievement in Baltimore Elementary Schools (SABES) program, which seeks to improve STEM curriculum and delivery in grades 3 – 5.
 
 * 2009 - 2018 **Teaching Assistant**, Johns Hopkins University and University of Chile. <br>
